@@ -40,7 +40,6 @@ print(U)
 
 ```
 
-Program to find the L and U matrix.
 
 (ii) To find the LU Decomposition of a matrix
 
