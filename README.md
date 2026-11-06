@@ -40,19 +40,11 @@ print(U)
 
 ```
 
-/*
 Program to find the L and U matrix.
-Developed by: S Rithika 
-RegisterNumber: 212225040344
-*/
-```
+
 (ii) To find the LU Decomposition of a matrix
-```
-/*
-Program to find the LU Decomposition of a matrix.
-Developed by: S Rithika 
-RegisterNumber: 212225040344
-*/
+
+
 ```
 import os
 os.environ["OPENBLAS_NUM_THREADS"]="1"
