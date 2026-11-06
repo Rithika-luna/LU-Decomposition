@@ -57,10 +57,10 @@ print(X)
 ```
 
 ## Output:
-Program to find the L and U matrix.
+To find the L and U matrix.
 <img width="1456" height="820" alt="image" src="https://github.com/user-attachments/assets/9b19a669-7253-41b6-8116-a46f2cfa1282" />
 
-Program to find the LU Decomposition of a matrix.
+To find the LU Decomposition of a matrix.
 
 <img width="1436" height="825" alt="image" src="https://github.com/user-attachments/assets/55ba3f25-2c07-4287-ad5a-54647c5ea90c" />
 
